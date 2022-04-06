@@ -1,2 +1,2 @@
-game.Players.CheeseyMine:kick("You are blacklisted")
+game.Players.Builderman:kick("You are blacklisted")
 
